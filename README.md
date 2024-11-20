@@ -1,11 +1,10 @@
-# self_intro
-Kalanithimaran P
-Software Engineer
+### **Kalanithimaran P**  
+**Software Engineer**  
 
-🚀 Passionate about building modern web applications with seamless user experiences.
-🌟 Skilled in crafting dynamic front-end interfaces and powerful back-end solutions.
+🚀 Passionate about developing modern web applications that deliver seamless and intuitive user experiences.  
+🌟 Expertise in designing dynamic front-end interfaces, building robust back-end solutions, and managing efficient databases.  
 
-Technologies:
-
-JavaScript, React, Next.js
-Node.js, Express.js
+#### **Technologies**  
+- **Frontend**: JavaScript, React, Next.js  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MySQL, MongoDB  
