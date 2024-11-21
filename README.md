@@ -7,4 +7,5 @@
 #### **Technologies**  
 - **Frontend**: JavaScript, React, Next.js  
 - **Backend**: Node.js, Express.js  
-- **Databases**: MySQL, MongoDB  
+- **Databases**: MySQL, MongoDB, TypeORM
+  
