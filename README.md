@@ -1,11 +1,28 @@
-### **Kalanithimaran P**  
-**Software Engineer**  
+# Kalanithimaran P
+### Software Engineer | Full-Stack JavaScript Developer
 
-🚀 Passionate about developing modern web applications that deliver seamless and intuitive user experiences.  
-🌟 Expertise in designing dynamic front-end interfaces, building robust back-end solutions, and managing efficient databases.  
+🚀 Passionate about building scalable, high-performance web applications with clean architecture and intuitive user experiences.  
+🌟 Strong in modern front-end development, backend API design, and efficient database management.  
+🧠 Focused on writing maintainable code, optimizing performance, and continuously improving engineering skills.
 
-#### **Technologies**  
-- **Frontend**: JavaScript, React, Next.js  
-- **Backend**: Node.js, Express.js  
-- **Databases**: MySQL, MongoDB, TypeORM
-  
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- JavaScript (ES6+)
+- React
+
+**Backend**
+- Node.js
+- Express.js
+
+**Databases & ORM**
+- MySQL
+- MongoDB
+- TypeORM
+
+---
+
+📌 *Currently sharpening backend, database, and cloud skills*  
+💡 *Interested in system design, performance optimization, and scalable architectures*
